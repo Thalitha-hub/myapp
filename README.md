@@ -1,3 +1,3 @@
 # myapp
-this myapp that i created 
-for learn beginners how to use github
+this is my app that i created 
+to teach beginners how to use github.
